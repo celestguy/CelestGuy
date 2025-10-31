@@ -4,6 +4,8 @@ I'm Théo Duval.
 
 No worries, i'll update this profile description very soon.
 
+Yeah, very soon, I swear
+
 <!--
 **CelestGuy/CelestGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
