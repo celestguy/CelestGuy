@@ -1,10 +1,8 @@
-### Hi !
+### Hi folks, I'm Théo Duval!
 
-I'm Théo Duval.
+I'm writing a better biography (It's a bit difficult). 
 
-No worries, i'll update this profile description very soon.
-
-Yeah, very soon, I swear
+Basically, I love [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), old technologies and the band [TOOL](https://en.wikipedia.org/wiki/Tool_(band)), they're awesome.
 
 <!--
 **CelestGuy/CelestGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
