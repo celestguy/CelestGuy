@@ -11,7 +11,7 @@ Basically, I love [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_soft
 I've separated my work into many places for better organization.
 
 ### 1. GitHub (it's this place)
-I am here to contribute to very good projects. I do not prefer storing my personal projects here.
+I contribute to very good projects. I do not prefer storing my personal projects here.
 
 ### 2. [GitLab](https://gitlab.com/celest_guy)
 Here are some of my public personal projects.
