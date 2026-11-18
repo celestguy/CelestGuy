@@ -6,6 +6,11 @@ I am an engineering student at ENSICAEN.
 
 Basically, I love [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), old technologies, and the band [TOOL](https://en.wikipedia.org/wiki/Tool_(band)), they're awesome.
 
+I code sometimes on my ThinkPad with Arch and KDE Plasma, and most of the time on my MacBook.
+(Yes, a MacBook; I wanted a stable Unix turnkey solution).
+
+I love doing experiments on my homelab.
+
 ## About my work
 
 I've separated my work into many places for better organization.
