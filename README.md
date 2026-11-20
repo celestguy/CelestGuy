@@ -21,7 +21,7 @@ I contribute to very good projects. I do not prefer storing my personal projects
 ### 2. [GitLab](https://gitlab.com/celest_guy)
 Here are some of my public personal projects.
 
-### 3. Personal Forgejo instance (not yet available)
+### 3. [Personnal Forgejo instance](https://git.theoduval.fr)
 This is the place for advanced personal projects and/or backups of libs/apps I use, in case those are shut down for some reason.
 
 ## How to contact me?
